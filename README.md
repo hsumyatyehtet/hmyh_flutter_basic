@@ -2,15 +2,23 @@
 
 A new Flutter project.
 
-## Getting Started
+## Starting point
 
-This project is a starting point for a Flutter application.
+Start learning Flutter with this project.
+1.Basic Flutter app
+2.Basic flutter widget
+3.Widget Column and Row
+4.Basic Counter (default flutter app)
+5.TextField widget
+6.ScrollView widget
+7.ListView widget
+8.Images widget
+9.MediaQuery widget
+10.LayoutBuilder widget
+11.LayoutBuilder widget advance
+12.Sliver Appbar
+13.Sliver ListView and GridView
+14.Sliver NestedScrollView
+15.BasicTheme
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Next repository is hmyh_flutter_localization.
